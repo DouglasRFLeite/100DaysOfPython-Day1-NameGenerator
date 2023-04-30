@@ -1,3 +1,9 @@
+import sys
+from os.path import abspath, dirname
+
+# Add the parent directory of the current file to sys.path
+sys.path.append(abspath(dirname(dirname(__file__))))
+
 from include import gpt
 
 def generate_name():
