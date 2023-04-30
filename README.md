@@ -1,5 +1,5 @@
 # 1Day-100DaysOfPythonGPT-BandNameGenerator
-Day 1 of the 100 Days of Code with Python Bootcamp from Udemy.
+Day 1 of the [100 Days of Code with Python Bootcamp](https://www.udemy.com/course/100-days-of-code/) from Udemy.
 
 ## What is 100DaysOfPythonGPT?
 
